@@ -1,8 +1,6 @@
 # 我的世界 MCPatcher 资源包中文教程
-![](https://img.shields.io/badge/version-0.0.1-blue.svg)
-![](https://img.shields.io/github/license/YilTeaLing/MCPatcherTutorial.svg)
 
-## [开始阅读]()
+### [开始阅读]()
 
 MCPatcher 提供了许多功能，通过它，资源包作者可以实现出各种效果。
 
