@@ -18,7 +18,7 @@
 
 #### 2.1 MCPatcher
 
-* 安装 MCPatcher
+* [安装 MCPatcher](2.1.1.md)
 * 高清字体
 * 自定义颜色
 * 随机生物皮肤
