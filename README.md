@@ -8,13 +8,14 @@
 
 ## 版权声明
 
-作者：YilTeaLing
+作者：github@YilTeaLing
+QQ：1789157644（加好友请附上来源）
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
     <img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
 </a><br />本作品采用
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-    知识共享署名-相同方式共享 4.0 国际许可协议
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+    署名-非商业用途-相同方式共享 4.0 国际许可协议
 </a>进行许可。
 
 转载请附上本作品链接：
