@@ -7,6 +7,7 @@ Minecraft资源包提供了一系列用于修改游戏内资源的途径。通�
 ## 版权声明
 
 本作品作者：github@YilTeaLing
+
 QQ：1789157644（加好友请附上来源）
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
