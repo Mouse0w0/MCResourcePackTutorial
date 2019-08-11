@@ -1,14 +1,12 @@
-# 我的世界 MCPatcher 资源包中文教程
+# 中文我的世界资源包制作教程
 
 ### [开始阅读](book/menu.md)
 
-在`MCPatcher`中提供了许多功能，通过它，资源包作者可以实现出各种效果。
-
-新版本的`OptiFine`实现了`MCPatcher`中的大部分功能，使用`OptiFine`可以大致代替`MCPatcher`；在本篇教程中，除另外声明外，使用`OptiFine`与`MCPatcher`的效果是大致相同的。
+我的世界资源包提供了一系列用于修改游戏内资源的途径。通过使用资源包，玩家可以修改游戏内的贴图，音效和文本等信息。通过本文，你可以了解到如何制作资源包，还可以学习到使用`MCPatcher`提供的高级功能进一步修改游戏资源。
 
 ## 版权声明
 
-作者：github@YilTeaLing
+本作品作者：github@YilTeaLing
 QQ：1789157644（加好友请附上来源）
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
